@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>ARTICLE-THREE</title>
+        <meta name="viexport" content="width-device-width, initial-scale-1" />
+    </head>
+    <body>
+        <div>
+            <a href="/">HOME</a>
+        </div>
+        <hr/>
+        <h3> Article-three </h3>
+        <div>
+            Jan 23, 2017
+        </div>
+        <div>
+            <p>This is the content for my Third Article.
+            </p>
+        </div>
+            
+        
+    </body>
+</html>
